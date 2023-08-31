@@ -1,0 +1,17 @@
+.main{
+	padding: 0 10px 10px 10px ;
+}
+
+.wrapper{
+	display: flex;
+	gap: 46px;
+	position: relative;
+}
+
+.tabs__blok{
+	display: none;
+}
+
+.tabs__blok:target{
+	display: block;
+}
